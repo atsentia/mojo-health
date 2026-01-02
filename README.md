@@ -223,7 +223,7 @@ pixi run test
 
 ## License
 
-MIT
+Apache 2.0
 
 ## Part of mojo-contrib
 
